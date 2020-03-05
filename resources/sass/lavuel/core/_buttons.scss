@@ -1,0 +1,20 @@
+button {
+  cursor: pointer;
+}
+
+.btn-transparent {
+  background-color: transparent;
+  border-color: transparent;
+  color: #fff;
+}
+
+.btn {
+  border-radius: $border-rounded;
+
+  [class^='icon-'],
+  [class*=' icon-'] {
+    display: inline-block;
+    margin-top: -2px;
+    vertical-align: middle;
+  }
+}

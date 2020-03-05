@@ -1,0 +1,21 @@
+{
+  "short_name": "LVL",
+  "name": "Lavuel",
+  "icons": [
+    {
+      "src": "/images/logo-symbol.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/logo-symbol.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#3188ef",
+  "theme_color": "#3188ef",
+  "display": "standalone",
+  "orientation": "portrait"
+}
