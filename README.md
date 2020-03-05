@@ -49,7 +49,7 @@ php artisan passport:install
 ```bash
 chmod -R go+w storage bootstrap/cache
 ```
-### Compile Static Asset
+### Compile static assets
 ```bash
 # for Development
 npm run dev
