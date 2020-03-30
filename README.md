@@ -1,4 +1,5 @@
 # Lavuel
+### [Lavuel][lavuel-ferjalo] in https://ferjalo.com.ar
 ### Admin scaffolding with Laravel + Passport + Vue 
 
 ## What's inside
@@ -74,5 +75,6 @@ This project is licensed under the MIT License.
 [offline-plugin]: https://github.com/NekR/offline-plugin
 [workbox]: https://developers.google.com/web/tools/workbox/
 [laravel-page-speed]: https://github.com/renatomarinho/laravel-page-speed
+[lavuel-ferjalo]: https://lavuel.ferjalo.com.ar
 
 ## Made with ❤️ by https://ferjalo.com.ar
