@@ -76,4 +76,4 @@ This project is licensed under the MIT License.
 [laravel-page-speed]: https://github.com/renatomarinho/laravel-page-speed
 [lavuel-ferjalo]: https://lavuel.ferjalo.com.ar
 
-## Made with ❤️ by https://ferjalo.com.ar
+### Made with ❤️ by https://ferjalo.com.ar
