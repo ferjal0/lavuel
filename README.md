@@ -4,9 +4,8 @@
 
 ## What's inside
 * [Laravel][laravel] 5.8, A PHP framework for web artisans
-* Useful libraries: [Axios][axios], [jQuery][jquery], [Moment.js][moment], [Lodash][lodash]
+* Useful libraries: [Axios][axios], [Moment.js][moment], [Lodash][lodash]
 * [Vue Router][vue-router] and [Vuex][vuex], set out of the box
-* PWA ready, powered by [Offline-plugin][offline-plugin] and [Workbox][workbox]
 * [Laravel Page Speed][laravel-page-speed], Simple package to minify HTML output on demand which results in a 35%+ optimization
 
 ## Requirement
