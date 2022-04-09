@@ -59,7 +59,7 @@
     "bootstrap-vue": "^2.0.0-rc.15",
     "jquery": "^3.3",
     "lodash": "^4.17.21",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "simple-line-icons": "^2.4.1",
     "vee-validate": "^2.2.2",
     "vue": "^2.6.8",
